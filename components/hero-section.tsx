@@ -113,7 +113,7 @@ export function HeroSection() {
             className="max-w-2xl mx-auto text-lg sm:text-xl text-muted-foreground leading-relaxed text-pretty"
           >
             Helping young minds learn strategy, build confidence, and grow through chess. 
-            Expert coaching available in <span className="text-primary font-medium">Hindi</span>, <span className="text-primary font-medium">English</span> & <span className="text-primary font-medium">Tamil</span>.
+            Expert coaching available in <span className="text-primary font-medium">Hindi</span>, <span className="text-primary font-medium">English</span>,<span className="text-primary font-medium">Marathi</span> & <span className="text-primary font-medium">Tamil</span>.
           </motion.p>
 
           {/* CTA Buttons */}
