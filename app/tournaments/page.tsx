@@ -77,7 +77,7 @@ export default function TournamentsPage() {
             </div>
             <h2 className="text-2xl font-bold text-foreground mb-4">Join Team Sonic_Sanatan22</h2>
             <p className="text-muted-foreground mb-6 max-w-2xl mx-auto leading-relaxed">
-              The competitive heart of Sonic Chess Academy — a growing chess community where 
+              The competitive heart of Sonic Chess Academy  a growing chess community where 
               academy students and passionate players come together to compete, learn, and excel 
               through exciting cash prize and membership tournaments. Join for free!
             </p>
