@@ -36,15 +36,15 @@ const features = [
   },
   {
     title: "Multilingual Support",
-    description: "We offer coaching in Hindi, English, and Tamil, ensuring language is never a barrier to learning chess."
+    description: "We offer coaching in Hindi, English,Marathi and Tamil, ensuring language is never a barrier to learning chess."
   },
   {
     title: "Flexible Learning",
-    description: "From group courses to personalized 1-on-1 sessions, we offer flexible learning options to suit your schedule."
+    description: "From group courses to personalized 1 on 1 sessions, we offer flexible learning options to suit your schedule."
   },
   {
     title: "Active Community",
-    description: "Join Team Sonic — our vibrant WhatsApp community where players discuss strategies and stay updated on tournaments."
+    description: "Join Team Sonic our vibrant WhatsApp community where players discuss strategies,play against each other and stay updated on tournaments."
   },
   {
     title: "Regular Tournaments",
