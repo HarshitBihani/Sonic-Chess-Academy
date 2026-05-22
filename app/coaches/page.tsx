@@ -146,7 +146,7 @@ className="bg-card rounded-3xl overflow-hidden border border-primary/20">
 src={coach.image}
 alt={coach.name}
 width={500}
-height={500}
+height={700}
 className="w-full h-[500px] object-cover object-center"
 />
 
