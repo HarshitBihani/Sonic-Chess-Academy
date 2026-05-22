@@ -12,12 +12,12 @@ const features = [
   {
     icon: Brain,
     title: "Critical Thinking",
-    description: "Develops concentration, decision-making, and strategic thinking abilities in young minds"
+    description: "Develops concentration, decision making, and strategic thinking abilities in young minds"
   },
   {
     icon: Users,
     title: "Personal Attention",
-    description: "Personalized coaching options including 1-to-1 sessions tailored to each student"
+    description: "Personalized coaching options including 1 to 1 sessions tailored to each student"
   },
   {
     icon: Trophy,
@@ -54,7 +54,7 @@ export function WhyChooseUs() {
             More Than Just Chess Lessons
           </h2>
           <p className="max-w-2xl mx-auto text-muted-foreground text-lg">
-            We believe chess is more than just a game — it&apos;s a journey of learning, 
+            We believe chess is more than just a game it&apos;s a journey of learning, 
             confidence, strategy, and growth.
           </p>
         </motion.div>
@@ -90,7 +90,7 @@ export function WhyChooseUs() {
             <div>
               <span className="text-sm text-muted-foreground">Available in</span>
               <div className="flex gap-2 mt-2">
-                {["Hindi", "English", "Tamil"].map((lang) => (
+                {["Hindi", "English","Marathi", "Tamil"].map((lang) => (
                   <span key={lang} className="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm font-medium">
                     {lang}
                   </span>
