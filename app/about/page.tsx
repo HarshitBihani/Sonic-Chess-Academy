@@ -102,7 +102,7 @@ export default function AboutPage() {
                 <p>
                   Sonic Chess Academy is an online chess training platform built for young learners. 
                   Founded by passionate chess players and educators, we believe chess is more than 
-                  just a game — it&apos;s a powerful tool for developing critical thinking, strategic 
+                  just a game  it&apos;s a powerful tool for developing critical thinking, strategic 
                   planning, and mental discipline in children.
                 </p>
                 <p>
