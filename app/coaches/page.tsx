@@ -146,8 +146,8 @@ className="bg-card rounded-3xl overflow-hidden border border-primary/20">
 src={coach.image}
 alt={coach.name}
 width={500}
-height={350}
-className="w-full h-[350px] object-cover object-[center_25%]"
+height={500}
+className="w-full h-[500px] object-cover object-center"
 />
 
 <div className="p-8 text-center">
