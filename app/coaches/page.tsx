@@ -10,7 +10,7 @@ const coaches = [
   {
     name: "Arjun C Krishnamachari",
     specialization: "Expert Coach • All Levels",
-    image: "/arjun.jpg",
+    image: "/arjun ck photo.jpeg",
     description:
       "Active tournament player with years of practical chess experience and a strong understanding of the game. Focuses on helping students improve calculation, tactics, openings and overall game understanding through structured lessons and practice.",
     button: "View FIDE Profile",
