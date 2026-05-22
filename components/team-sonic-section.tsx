@@ -27,7 +27,7 @@ export function TeamSonicSection() {
           </h2>
           
           <p className="max-w-3xl mx-auto text-muted-foreground text-lg leading-relaxed">
-            The competitive heart of Sonic Chess Academy — a growing chess community where academy 
+            The competitive heart of Sonic Chess Academy  a growing chess community where academy 
             students and passionate players come together to compete, learn, and excel through 
             exciting cash prize and membership tournaments. Stay updated with upcoming chess 
             tournament details, join for free, engage with the community, and play with chess 
