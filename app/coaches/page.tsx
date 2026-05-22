@@ -147,7 +147,7 @@ src={coach.image}
 alt={coach.name}
 width={500}
 height={350}
-className="w-full h-[350px] object-cover object-top"
+className="w-full h-[350px] object-cover object-[center_25%]"
 />
 
 <div className="p-8 text-center">
