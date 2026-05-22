@@ -18,7 +18,7 @@ const spaceGrotesk = Space_Grotesk({
 
 export const metadata: Metadata = {
   title: 'Sonic Chess Academy | Learn Chess, Build Confidence, Master Strategy',
-  description: 'Sonic Chess Academy helps young minds learn strategy, build confidence, and grow through chess. Expert coaching in Hindi, English & Tamil. Join our community today!',
+  description: 'Sonic Chess Academy helps young minds learn strategy, build confidence, and grow through chess. Expert coaching in Hindi, English , Marathi & Tamil. Join our community today!',
   keywords: ['chess academy', 'chess coaching', 'learn chess', 'online chess', 'chess tournament', 'chess for kids'],
   authors: [{ name: 'Sonic Chess Academy' }],
   openGraph: {
