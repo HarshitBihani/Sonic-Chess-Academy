@@ -106,7 +106,7 @@ export default function AboutPage() {
                   planning, and mental discipline in children.
                 </p>
                 <p>
-                  Our academy brings together experienced coaches, child-friendly teaching methods, 
+                  Our academy brings together experienced coaches, children friendly teaching methods, 
                   and a supportive community to create an environment where young players can thrive. 
                   Whether your child is taking their first steps in chess or preparing for competitive 
                   play, Sonic Chess Academy is here to guide them.
