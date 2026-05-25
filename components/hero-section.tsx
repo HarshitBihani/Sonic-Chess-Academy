@@ -155,7 +155,7 @@ export function HeroSection() {
           >
             {[
               { icon: BookOpen, label: "Course Levels", value: "4", color: "text-cyan-400" },
-              { icon: Star, label: "Languages", value: "3", color: "text-purple-400" },
+              { icon: Star, label: "Languages", value: "4", color: "text-purple-400" },
             ].map((stat, i) => (
               <motion.div 
                 key={i} 
